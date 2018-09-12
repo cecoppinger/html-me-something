@@ -1,4 +1,4 @@
-body {
-  background-image: url("https://i.pinimg.com/originals/c2/90/46/c29046cfbf00c7b5d9f07fa77fb138bd.jpg");
-  background-size: cover;
+img {
+  position: absolute;
+  z-index: -1;
 }
